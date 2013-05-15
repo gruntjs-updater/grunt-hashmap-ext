@@ -9,7 +9,7 @@
 'use strict';
 
 module.exports = function( grunt ) {
-  grunt.registerMultiTask( 'hashmap_ext', 'Your task description goes here.', function(){
+  grunt.registerMultiTask( 'hashmapExt', 'Your task description goes here.', function(){
 
     var options = this.options({
       align : false,
